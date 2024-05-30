@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> 
-<img align="right" alt="Coding" width="400" src="[https://www.behance.net/gallery/116770475/Animated-illustrations"]> </p>
+ </p>
 
 - 📫 How to reach me **anoushkabose2002@gmail.com**
 
